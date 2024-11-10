@@ -6,32 +6,38 @@
 <img src='https://github.com/BidyutRoy2/BidyutRoy2/blob/main/Logo_BG.png' style="width:300px;height:300px;">
 </p>
 
-### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
+## 1. Register Website [HERE](https://t.me/hiddengemnews/9175)
 
-# How to Use Github CodeSpace Video Tutorial [CHECK HERE](https://t.me/AiHiddenGem/11701)
+- Connect New/Burner Backpack Sol Wallet
+- How to Add Testnet [Details Here](https://blog.sonic.game/sonic-frontier-v1-network-setting---backpack-wallet)
+- Claim Faucet (You need at least 0.01 SOL in your wallet on Solana Mainnet to access the faucet)
 
-## Steps
+### 2. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
-### 2. Clone Repository
+## How to Use Github CodeSpace Video Tutorial [CHECK HERE](https://t.me/AiHiddenGem/11701)
+
+## Follow All Steps
+
+### 3. Clone Repository
 
 ```bash
 git clone https://github.com/BidyutRoy2/Sonic-Frontier-V1-Testnet.git
 ```
 
-### 3. Go To Bot Directory
+### 4. Go To Bot Directory
 ```
 cd Sonic-Frontier-V1-Testnet
 ```
 
-### 4. Instal Dependency
+### 5. Instal Dependency
 
 ```bash
 npm install
 ```
 
-### 5. Edit `.env` File and Configurate .env File Then Save Your Sol Wallet Seed Phrase (CTRL+S)
+### 6. Edit `.env` File and Configurate .env File Then Save Your Sol Wallet Seed Phrase (CTRL+S)
 ```
-SEED_PHRASES=["Enter SOL Wallet Phrase & Save"]
+SEED_PHRASES=["Enter SOL Wallet Seed Phrase & Save"]
 ```
 Example : `SEED_PHRASES=["Your Wallet Seed Phrase and save"]`
 
@@ -39,13 +45,18 @@ Example : `SEED_PHRASES=["Your Wallet Seed Phrase and save"]`
 <img src='create-env.jpg' width='900'>
 </p>
 
-### 6. Run script & Make Daily Transaction
+### 7. Run Command & Make Daily 100 Transaction
 
 ```bash
 npm start
 ```
 
-### 6. Follow Next Step and Make Transaction
+### 6. After Complete 100 Transaction Go To [Sonic Website](https://odyssey.sonic.game/?join=hjuFml) > TX Milestone
+### 7. Claim All Ring Mystery Box then Open All Box
+
+<p align="center">
+<img src='2024-11-11_011706.jpg' width='900'>
+</p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
