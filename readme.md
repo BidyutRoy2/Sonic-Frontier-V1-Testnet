@@ -42,7 +42,7 @@ SEED_PHRASES=["Enter SOL Wallet Seed Phrase & Save"]
 Example : `SEED_PHRASES=["Your Wallet Seed Phrase and save"]`
 
 <p align="center">
-<img src='create-env.jpg' width='900'>
+<img src='Trick.jpg' width='900'>
 </p>
 
 ### 7. Run Command & Make Daily 100 Transaction
