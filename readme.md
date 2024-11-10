@@ -12,7 +12,7 @@
 - How to Add Testnet [Details Here](https://blog.sonic.game/sonic-frontier-v1-network-setting---backpack-wallet)
 - Claim Faucet (You need at least 0.01 SOL in your wallet on Solana Mainnet to access the faucet)
 
-### 2. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
+### 2. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces) (PC and Mobile)
 
 ## How to Use Github CodeSpace Video Tutorial [CHECK HERE](https://t.me/AiHiddenGem/11701)
 
